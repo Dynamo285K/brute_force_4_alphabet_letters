@@ -1,6 +1,5 @@
 import string
 import requests
-from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
 
 
